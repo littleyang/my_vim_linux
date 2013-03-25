@@ -95,8 +95,8 @@ autocmd BufWritePre * :%s/\s\+$//e
 map <Leader><Leader> <Leader>c<space>
 
 " next and prev tab
-noremap <F7> gT
-noremap <F8> gt
+noremap <F6> gT
+noremap <F7> gt
 
 " identation
 nmap <TAB> v>
